@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myAnime</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Play History</string>
+    <string name="menu_profile">Profile</string>
+<!--    <string name="app_name">Tugas Jetpack Compose</string>-->
+<!--    <string name="app_name">Tugas Jetpack Compose</string>-->
+</resources>
